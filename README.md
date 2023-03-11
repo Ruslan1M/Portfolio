@@ -42,3 +42,4 @@
   - Create Stats System
   - Upgrade Functionality
   - UI Adaptation
+  - Zenject
